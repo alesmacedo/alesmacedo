@@ -1,10 +1,10 @@
 <h3 align="center">👋 Hi, I'm Alessandro</h3>
 
 <p align="center">
-- 💻 I'm studying to become a fullstack developer 
+• 💻 I'm studying to become a fullstack developer 
   </p>
 <p align="center">
-- 🧠 I’m currently learning HTML/CSS/JavaScript and Python
+• 🧠 I’m currently learning HTML/CSS/JavaScript and Python
    </p>
 </div>
 
@@ -13,7 +13,7 @@
   <a href="https://github.com/alesmacedo">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=alesmacedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <p align="center">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesmacedo&layout=compact&langs_count=7&theme=dark"/>
+  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesmacedo&layout=compact&langs_count=7&theme=dark"/>
     </p>
 </div>
   
