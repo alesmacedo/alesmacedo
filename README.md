@@ -4,7 +4,7 @@
 • 💻 I'm studying to become a fullstack developer 
   </p>
 <p align="center">
-• 🧠 I’m currently learning HTML/CSS/JavaScript and Python
+• 🧠 I’m currently learning HTML/CSS/JavaScript/C#/PostgreeSQL and Python
    </p>
 </div>
 
