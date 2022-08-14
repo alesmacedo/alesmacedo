@@ -3,9 +3,9 @@
 
 
 
-Seja bem vindo ao meu perfil! Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente sou estagiario na maior empresa de técnologia do Brasil, mais conhecida como [TOTVS](https://www.totvs.com.br). Obrigado pela visita, sinta-se livre para [conectar](https://www.linkedin.com/in/alesmacedo/) comigo!
+Seja bem vindo ao meu perfil! Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente sou estagiario na maior empresa de técnologia do Brasil, mais conhecida como [Totvs](https://www.totvs.com.br). Obrigado pela visita, sinta-se livre para [conectar](https://www.linkedin.com/in/alesmacedo/) comigo!
 
-<div align="left">  
+<div align="center">  
   <!-- Twitter Badge -->
   <a href="https://twitter.com/_alesmacedo">
     <img
