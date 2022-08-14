@@ -1,46 +1,33 @@
-<h3 align="center">👋 Hi, I'm Alessandro</h3>
+<h2 align="center">Olá, me chamo Alessandro! <img src="https://user-images.githubusercontent.com/1108261/111002547-689cb200-8364-11eb-9130-ad135120e3c6.gif" width="30px"></h1>
 
-<p align="center">
-• 💻 I'm studying to become a fullstack developer 
-  </p>
-<p align="center">
-• 🧠 I’m currently learning HTML/CSS/JavaScript and C# 
-   </p>
-</div>
 
-  <div>
-<p align="center">
-  <a href="https://github.com/alesmacedo">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=alesmacedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<p align="center">
-  <img align="center" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesmacedo&layout=compact&langs_count=7&theme=dark"/>
-    </p>
-</div>
+
+
+Seja bem vindo ao meu perfil! Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente sou estagiario na maior empresa de técnologia do Brasil, mais conhecida como [TOTVS](https://www.totvs.com.br). Obrigado pela visita, sinta-se livre para [conectar](https://www.linkedin.com/in/alesmacedo/) comigo!
+
+<div align="left">  
+  <!-- Twitter Badge -->
+  <a href="https://twitter.com/_alesmacedo">
+    <img
+      src="https://img.shields.io/twitter/follow/_alesmacedo?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
   
-
-<div style="display: inline_block"><br>
-  <p align="center">
-  <img align="center" alt="ales-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="ales-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ales-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="ales-csharp" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
+  <!-- Linkedin Badge -->
+  <a href="https://www.linkedin.com/in/alesmacedo/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
 </div>
 
-##
+## ⚡ Tecnologias 
 
-<div> 
-  <p align="center">
-  <a href="https://instagram.com/alesmacedo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%238650F0?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:alesmacedo.s@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D62121?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alesmacedo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-  
-<p align="center">
-  Feel free to connect!
-  </p>
+Aqui estão algumas das tecnologias que estudo no momento.
 
-
-<!---
-alesmacedo/alesmacedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* :hammer_and_wrench: C# | HTML | CSS | JavaScript
+* :file_cabinet: SQL Server | PostgreSQL
+* 🚀 Postman
+* :octocat: Git | Github
