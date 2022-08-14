@@ -1,6 +1,6 @@
 <h2 align="center">Olá, me chamo Alessandro! <img src="https://user-images.githubusercontent.com/1108261/111002547-689cb200-8364-11eb-9130-ad135120e3c6.gif" width="30px"></h1>
 
-Seja bem vindo ao meu perfil! Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente sou estagiario na maior empresa de técnologia do Brasil, mais conhecida como [Totvs](https://www.totvs.com.br). Obrigado pela visita, sinta-se livre para [conectar](https://www.linkedin.com/in/alesmacedo/) comigo!
+Seja bem vindo(a) ao meu perfil! Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente sou estagiario na maior empresa de tecnologia do Brasil, mais conhecida como [Totvs](https://www.totvs.com.br). Obrigado pela visita, sinta-se livre para [conectar](https://www.linkedin.com/in/alesmacedo/) comigo!
 
 <div align="center">  
   <!-- Twitter Badge -->
@@ -20,7 +20,7 @@ Seja bem vindo ao meu perfil! Sou estudante de Análise e Desenvolvimento de Sis
   </a>
 </div>
 
-<h2 align="center">Tecnologias</h2>
+<h2 align="center">Tecnologias ⚡</h2>
 
 Aqui estão algumas das tecnologias que estudo no momento.
 
