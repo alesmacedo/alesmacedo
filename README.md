@@ -20,7 +20,7 @@ Seja bem vindo ao meu perfil! Sou estudante de Análise e Desenvolvimento de Sis
   </a>
 </div>
 
-##  Tecnologias 
+<h2 align="center">Tecnologias</h2>
 
 Aqui estão algumas das tecnologias que estudo no momento.
 
