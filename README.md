@@ -24,7 +24,7 @@ Seja bem vindo(a) ao meu perfil! Formado em Análise e Desenvolvimento de Sistem
 
 Aqui estão algumas das tecnologias que estudo no momento.
 
-* :hammer_and_wrench: C# | HTML | CSS | JavaScript
+* :hammer_and_wrench: C# | .Net | ASP.Net | HTML | CSS 
 * :file_cabinet: SQL Server | PostgreSQL
 * 🚀 Postman
 * :octocat: Git | Github
